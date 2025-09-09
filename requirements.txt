@@ -4,3 +4,7 @@ requests
 sentence-transformers
 qdrant-client
 pydantic
+huggingface_hub>=0.33
+hf-xet>=1.0
+# optional speed-up for single large files:
+hf_transfer>=0.1
